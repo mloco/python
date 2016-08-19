@@ -1,0 +1,1 @@
+print "left code is %d" % 5
